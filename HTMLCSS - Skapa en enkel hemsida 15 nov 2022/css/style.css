@@ -1,0 +1,25 @@
+body{
+	background-color: lightgrey;
+	border: 2px blueviolet;
+}
+.title{
+	color: blue;
+}
+.card2
+{
+	background-color: steelblue;
+}
+
+table, th, td{
+	border-collapse: collapse;
+	border: 2xpx black;
+	padding: 15px;
+}
+
+th{
+	background-color: grey;
+}
+td{
+	background-color: lightblue;
+	border: 2px black;
+}
