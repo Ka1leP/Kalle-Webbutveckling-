@@ -1,0 +1,38 @@
+body{
+	background-color: lightgrey;
+	
+}
+.title{
+	color: blue;
+}
+.meny{
+	color: white;
+}
+.marginal{
+	margin-top: 50px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+.cardmarginal{
+	margin-top: 20px;
+}
+.ronnebybakgrund{
+	background-color: white;
+	padding: 30px;
+}
+
+.skugga{
+	box-shadow: 10px 10px 15px grey;
+}
+.textpadding{
+	padding: 20px;
+}
+.sidfot{
+	padding: 30px;
+	margin-top: 50px;
+	background-color: grey;
+	color: white;
+}
+.kolumnpadding{
+	padding-bottom: 15px;
+}
